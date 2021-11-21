@@ -1,0 +1,8 @@
+jupyter
+numpy
+pandas
+hydra-core
+sklearn
+statsmodels
+xgboost
+matplotlib

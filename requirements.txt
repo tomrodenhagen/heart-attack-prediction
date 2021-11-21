@@ -6,3 +6,4 @@ sklearn
 statsmodels
 xgboost
 matplotlib
+black
